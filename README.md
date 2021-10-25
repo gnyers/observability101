@@ -1,2 +1,3 @@
-# observability101
-Files for the Observability 101 Workshop
+# Workshop Observability101
+
+The required files
